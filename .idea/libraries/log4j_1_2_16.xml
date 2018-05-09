@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="log4j-1.2.16">
+    <CLASSES>
+      <root url="jar://F:/spring-springMVC-mybatis的jar包/generatorSqlmap/log4j-1.2.16.jar!/" />
+      <root url="jar://F:/spring-springMVC-mybatis的jar包/generatorSqlmap/mybatis-3.2.3.jar!/" />
+      <root url="jar://F:/spring-springMVC-mybatis的jar包/generatorSqlmap/mybatis-generator-core-1.3.2.jar!/" />
+      <root url="jar://F:/spring-springMVC-mybatis的jar包/generatorSqlmap/mysql-connector-java-5.1.28-bin.jar!/" />
+      <root url="jar://F:/spring-springMVC-mybatis的jar包/generatorSqlmap/ojdbc14.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
